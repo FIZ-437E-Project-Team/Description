@@ -9,5 +9,5 @@ FIZ-437E Group-8 Members: <br><br>
 **-Büşra Köksal (<a href="https://github.com/bkksl" target="_blank">bkksl</a>)** <br>
 **-Selin Duman  (<a href="https://github.com/Selinduman" target="_blank">Selinduman</a>)** <br>
 
-
-https://github.com/FIZ-437E-Project-Team
+-You can access our project's organization page below.<br>
+•https://github.com/FIZ-437E-Project-Team
